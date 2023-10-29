@@ -1,3 +1,5 @@
+The `fixes` branch of this fork fixes a cookware typo and adds back line wrap.
+
 # CookLang Editor Obsidian Plugin
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/cooklang-obsidian?style=for-the-badge&sort=semver)](https://github.com/deathau/cooklang-obsidian/releases/latest)
 ![GitHub All Releases](https://img.shields.io/github/downloads/deathau/cooklang-obsidian/total?style=for-the-badge)
